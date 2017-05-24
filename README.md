@@ -13,6 +13,9 @@ A curated list of awesome ReactNative libraries and projects.
 
 [ReactNative仿《ONE》APP](https://juejin.im/post/59218aab0ce463006957230a)
 
+### 搭建环境
+[Windows平台搭建React Native开发环境](http://www.jianshu.com/p/79a147cc72bf)
+
 ### 基础
 
 ##### 从Android到React Native开发系列
