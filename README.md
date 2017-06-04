@@ -2,7 +2,7 @@
 A curated list of awesome ReactNative libraries and projects.
 
 ### 资源
-[ReactNative 学习资源大汇集](https://juejin.im/post/591ec246da2f60005d30654c?utm_source=gold_browser_extension/)
+[ReactNative 学习资源大汇集](https://juejin.im/post/591ec246da2f60005d30654c)
 
 ### 文章
 [利用 Create React Native App 快速创建 React Native 应用](https://zhuanlan.zhihu.com/p/25794031)
@@ -14,6 +14,27 @@ A curated list of awesome ReactNative libraries and projects.
 [ReactNative仿《ONE》APP](https://juejin.im/post/59218aab0ce463006957230a)
 
 [手把手教你构建运行React Native官方Examples](http://www.devio.org/2017/06/01/Construction-of-React-Native-Official/)
+
+[给所有开发者的React Native详细入门指南](http://www.jianshu.com/p/fa0874be0827)
+
+[深入源码探索 ReactNative 通信机制](http://www.cnblogs.com/bugly/p/5266250.html)
+
+[React-Native学习指南](http://www.jianshu.com/p/fd4591a978ba)
+
+[给所有开发者的React Native详细入门指南（第一阶段）](https://juejin.im/post/5898388b128fe1006cb943e3)
+
+[React Native 从安装环境到放弃](http://www.jianshu.com/p/7324356be501)
+
+[React Native 每日一学(Learn a little every day)](http://www.jianshu.com/p/01555806d186)
+
+[React Native 高质量学习资料汇总](http://www.jianshu.com/p/454f2e6f28e9)
+
+[关于为什么学习React Native三点原因](http://www.jianshu.com/p/ec2b29ce0ea4)
+
+#### React-Native从入门到放弃系列
+[（一）准备篇](http://www.jianshu.com/p/180c833aba76)
+
+[（二）](http://www.jianshu.com/p/d78696e9db3f)
 
 ### 搭建环境
 [Windows平台搭建React Native开发环境](http://www.jianshu.com/p/79a147cc72bf)
@@ -51,3 +72,7 @@ A curated list of awesome ReactNative libraries and projects.
 [react-native-image-crop-picker](https://github.com/ivpusic/react-native-image-crop-picker) -iOS/Android image picker with support for camera, configurable compression, multiple images and cropping
 
 [whatsapp](https://github.com/VctrySam/whatsapp) -WhatsApp in React Native
+
+[react-native-guide](https://github.com/reactnativecn/react-native-guide) -React Native指南汇集了各类react-native学习资源、开源App和组件
+
+[react_native_weibo](https://github.com/pheromone/react_native_weibo) -使用react native制作的微博客户端
