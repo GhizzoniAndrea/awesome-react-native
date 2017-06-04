@@ -13,6 +13,8 @@ A curated list of awesome ReactNative libraries and projects.
 
 [ReactNative仿《ONE》APP](https://juejin.im/post/59218aab0ce463006957230a)
 
+[手把手教你构建运行React Native官方Examples](http://www.devio.org/2017/06/01/Construction-of-React-Native-Official/)
+
 ### 搭建环境
 [Windows平台搭建React Native开发环境](http://www.jianshu.com/p/79a147cc72bf)
 
@@ -26,6 +28,8 @@ A curated list of awesome ReactNative libraries and projects.
 ### 进阶
 
 ### GitHub
+[关于React Navigation的一些使用技巧](https://github.com/panyz/Blogs/issues/15)
+
 [react-native-snackbar](https://github.com/cooperka/react-native-snackbar) -Material-design "Snackbar" component for Android and iOS
 
 [react-native-calendars](https://github.com/wix/react-native-calendars) -React Native Calendar Components :calendar:
