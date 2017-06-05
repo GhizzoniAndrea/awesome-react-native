@@ -31,6 +31,25 @@ A curated list of awesome ReactNative libraries and projects.
 
 [关于为什么学习React Native三点原因](http://www.jianshu.com/p/ec2b29ce0ea4)
 
+[React Native使用原生UI组件](http://blog.csdn.net/imSunLight/article/details/62044273)
+
+[Android原生项目接入React Native](http://blog.csdn.net/imsunlight/article/details/60756528)
+
+[React Native 仿 ofo 共享单车 App](https://juejin.im/post/591936f08d6d810058806084)
+
+[一个上架了的React Native项目实战总结](http://www.devio.org/2016/10/24/%E4%B8%80%E4%B8%AA%E4%B8%8A%E6%9E%B6%E4%BA%86%E7%9A%84React-Native%E9%A1%B9%E7%9B%AE%E5%AE%9E%E6%88%98%E6%80%BB%E7%BB%93/)
+
+[React Native 学习笔记](http://www.devio.org/2016/07/30/react-native-study-note/)
+
+#### React-Native探索系列
+[（一）环境搭建与Hello World（Windows/Mac）](http://liuwangshu.cn/rn/primer/1-helloworld.html)
+
+[（二）Atom+Nuclide安装、配置和调试](http://liuwangshu.cn/rn/primer/2-atom-nuclide.html)
+
+[（三）组件的Props(属性)和State(状态)](http://liuwangshu.cn/rn/primer/3-props-state.html)
+
+[（四）Flexbox布局详解](http://liuwangshu.cn/rn/primer/4-flexbox.html)
+
 #### React-Native从入门到放弃系列
 [（一）准备篇](http://www.jianshu.com/p/180c833aba76)
 
