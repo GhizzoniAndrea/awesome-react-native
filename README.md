@@ -95,3 +95,5 @@ A curated list of awesome ReactNative libraries and projects.
 [react-native-guide](https://github.com/reactnativecn/react-native-guide) -React Native指南汇集了各类react-native学习资源、开源App和组件
 
 [react_native_weibo](https://github.com/pheromone/react_native_weibo) -使用react native制作的微博客户端
+
+[react-native-navigation](https://github.com/wix/react-native-navigation) -A complete native navigation solution for React Native - nav bars, tabs, drawer, modals
