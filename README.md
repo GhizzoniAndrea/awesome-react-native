@@ -97,3 +97,5 @@ A curated list of awesome ReactNative libraries and projects.
 [react_native_weibo](https://github.com/pheromone/react_native_weibo) -使用react native制作的微博客户端
 
 [react-native-navigation](https://github.com/wix/react-native-navigation) -A complete native navigation solution for React Native - nav bars, tabs, drawer, modals
+
+[gitbook-reader-rn](https://github.com/le0zh/gitbook-reader-rn) -使用ReactNative开发的GitBook阅读器，可以查看在线的书籍信息，在线阅读和下载，目前仅适配了Android端，iOS待适配
