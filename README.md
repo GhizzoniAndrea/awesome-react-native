@@ -50,6 +50,8 @@ A curated list of awesome ReactNative libraries and projects.
 
 [（四）Flexbox布局详解](http://liuwangshu.cn/rn/primer/4-flexbox.html)
 
+[React Native探索（五）使用fetch进行网络请求](http://liuwangshu.cn/rn/primer/5-fetch.html)
+
 #### React-Native从入门到放弃系列
 [（一）准备篇](http://www.jianshu.com/p/180c833aba76)
 
@@ -59,11 +61,15 @@ A curated list of awesome ReactNative libraries and projects.
 [Windows平台搭建React Native开发环境](http://www.jianshu.com/p/79a147cc72bf)
 
 ### 基础
+[React Native 组件（一）组件的生命周期](https://juejin.im/post/5947489a8d6d81cc72eff2fa)
 
 ##### 从Android到React Native开发系列
 1.[入门](http://www.jianshu.com/p/97692b1c451d)
 
 2.[通信与模块实现](http://www.jianshu.com/p/bec040926db8)
+
+### 实战
+[从零到一：用ReactNative开发的第一个跨平台app](https://juejin.im/post/59479d6261ff4b006cfaee75)
 
 ### 进阶
 
