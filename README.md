@@ -64,6 +64,8 @@
 ### 基础
 - [React Native 组件（一）组件的生命周期](https://juejin.im/post/5947489a8d6d81cc72eff2fa)
 
+- [搭建开发环境、创建Hello World](https://juejin.im/post/595755426fb9a06baa63b1a2)
+
 ##### 从Android到React Native开发系列
 - 1.[入门](http://www.jianshu.com/p/97692b1c451d)
 
