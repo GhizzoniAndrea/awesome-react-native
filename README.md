@@ -42,6 +42,8 @@
 
 - [React Native for Android 异常处理概览](https://mp.weixin.qq.com/s?__biz=MzIwOTQ1MjAwMg==&mid=2247483845&idx=1&sn=16d9d4683c90b36933ac4e369b2c3a7b&chksm=9772ef48a005665e41001471a34a430acf0677a9257bb4c9487d847eed9cb294fe06f18ab2d5&mpshare=1&scene=1&srcid=0313Ea9ah2NvqI8mi3bYt4GK&key=5e85f2ba5f0147df6eeea801534f622a6a08f7a94190a5f577ed578712bd8b37190bfae122392931f645c496eaf9e4152bda835d1a1b00c7b3eaf8a64c6d41e7659fbffe69dc442306d649446e722db3&ascene=0&uin=MTk5MjQ5MTk2MA%3D%3D&devicetype=iMac+MacBookPro11%2C1+OSX+OSX+10.11.6+build(15G1217)&version=12010310&nettype=WIFI&fontScale=100&pass_ticket=9KanYuqh4u1ebKFow%2FVYB2yfv9t7a5jjj0YIi8eI7e34t8kb9WRiJF8Z9XOilcu2)
 
+- [ReactNative学习笔记五之生命周期](https://juejin.im/post/5961dd8af265da6c2915a631)
+
 #### React-Native探索系列
 - [（一）环境搭建与Hello World（Windows/Mac）](http://liuwangshu.cn/rn/primer/1-helloworld.html)
 
