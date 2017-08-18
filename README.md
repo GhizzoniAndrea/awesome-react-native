@@ -99,6 +99,8 @@
 
 - [react-native-elements](https://github.com/react-native-training/react-native-elements) -Cross Platform React Native UI Toolkit
 
+- [react-native-markdown-editor](https://github.com/kunall17/react-native-markdown-editor/) - Markdown editor like github comment editor (contains preview, markdown buttons)
+
 - [react-native-image-crop-picker](https://github.com/ivpusic/react-native-image-crop-picker) -iOS/Android image picker with support for camera, configurable compression, multiple images and cropping
 
 - [whatsapp](https://github.com/VctrySam/whatsapp) -WhatsApp in React Native
